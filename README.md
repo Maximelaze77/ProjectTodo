@@ -10,6 +10,7 @@
 * Express
 * axios
 * sequelize
+* Knex
 * body-parser
 
 ## Versions
