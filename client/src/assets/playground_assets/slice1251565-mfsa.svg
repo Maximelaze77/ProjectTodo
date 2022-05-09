@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg width='1' height='7' viewBox='0 0 1 7' fill='none' xmlns='http://www.w3.org/2000/svg'>
+<g clip-path='url(#clip0_205_3447)'>
+<rect width='1440' height='1018' transform='translate(-157 -569)' fill='#F9FAFF'/>
+<g filter='url(#filter0_d_205_3447)'>
+<rect x='-158' y='-583' width='850' height='1047' fill='white'/>
+</g>
+</g>
+<defs>
+<filter id='filter0_d_205_3447' x='-158' y='-623' width='930' height='1127' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'>
+<feFlood flood-opacity='0' result='BackgroundImageFix'/>
+<feColorMatrix in='SourceAlpha' type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0' result='hardAlpha'/>
+<feOffset dx='40'/>
+<feGaussianBlur stdDeviation='20'/>
+<feColorMatrix type='matrix' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0'/>
+<feBlend mode='normal' in2='BackgroundImageFix' result='effect1_dropShadow_205_3447'/>
+<feBlend mode='normal' in='SourceGraphic' in2='effect1_dropShadow_205_3447' result='shape'/>
+</filter>
+<clipPath id='clip0_205_3447'>
+<rect width='1440' height='1018' fill='white' transform='translate(-157 -569)'/>
+</clipPath>
+</defs>
+</svg>
